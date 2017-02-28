@@ -1,0 +1,2 @@
+
+PYTHONSTARTUP=<Folder_path>\InitPythonEnv.py
